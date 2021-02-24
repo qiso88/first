@@ -5,7 +5,7 @@ https://download.jetbrains.8686c.com/python/pycharm-community-2020.3.3.exe
 <h3 class="wt-col-inline wt-h3 version-title">Version 2020.3</h3>
 
 <h4 class="wt-h4">PyCharm Professional Edition</h4>
-https://download.jetbrains.com/python/pycharm-professional-2020.3.2.exe?_ga=2.214656855.192553065.1614175347-104101003.1614175347
+<a href="https://download.jetbrains.com/python/pycharm-professional-2020.3.2.exe?_ga=2.214656855.192553065.1614175347-104101003.1614175347">pycharm-professional-2020.3.2.exe</a>
 	<a class="wt-link" href="https://download.jetbrains.com/python/pycharm-professional-2020.3.3.tar.gz">2020.3.3 - Linux (tar.gz)</a> 
 	<a class="wt-link" href="https://download.jetbrains.com/python/pycharm-professional-2020.3.3.exe">2020.3.3 - Windows (exe)</a>    
 	<a class="wt-link" href="https://download.jetbrains.com/python/pycharm-professional-2020.3.3.dmg">2020.3.3 - macOS (dmg)</a><
